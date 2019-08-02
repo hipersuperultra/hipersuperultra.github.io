@@ -3,13 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hipersuperultra.github.io/posts/new-cpp-log/</loc>
+    <lastmod>2019-08-02T19:41:56-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hipersuperultra.github.io/posts/post-of-intent/</loc>
     <lastmod>2019-04-29T01:21:17-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://hipersuperultra.github.io/posts/</loc>
-    <lastmod>2019-04-29T01:21:17-03:00</lastmod>
+    <lastmod>2019-08-02T19:41:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -20,7 +25,7 @@
   
   <url>
     <loc>https://hipersuperultra.github.io/</loc>
-    <lastmod>2019-04-29T01:21:17-03:00</lastmod>
+    <lastmod>2019-08-02T19:41:56-03:00</lastmod>
     <priority>0</priority>
   </url>
   
