@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hipersuperultra log</title>
-    <link>https://hipersuperultra.neocities.org/</link>
+    <link>https://hipersuperultra.github.io/</link>
     <description>Recent content on hipersuperultra log</description>
     <generator>Hugo - gohugo.io</generator>
     <language>en</language>
     <contact>blog name at google mail</contact>
-    <copyright>&copy; <a href="https://hipersuperultra.neocities.org/">hipersuperultra</a> 2019</copyright>
+    <copyright>&copy; <a href="https://hipersuperultra.github.io/">hipersuperultra</a> 2019</copyright>
     
-        <atom:link href="https://hipersuperultra.neocities.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://hipersuperultra.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post of Intent</title>
-      <link>https://hipersuperultra.neocities.org/posts/post-of-intent/</link>
+      <link>https://hipersuperultra.github.io/posts/post-of-intent/</link>
       <pubDate>Mon, 29 Apr 2019 01:21:17 -0300</pubDate>
       <author>hipersuperultra</author>
-      <guid>https://hipersuperultra.neocities.org/posts/post-of-intent/</guid>
+      <guid>https://hipersuperultra.github.io/posts/post-of-intent/</guid>
       <description></description>
       
       <content>&lt;p&gt;Another night asleep, another project starting out of the blue.&lt;/p&gt;
