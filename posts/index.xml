@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://hipersuperultra.github.io/&#34;&gt;hipersuperultra&lt;/a&gt; 2019</copyright>
-    <lastBuildDate>Fri, 02 Aug 2019 19:41:56 -0300</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 09:18:29 -0300</lastBuildDate>
     
 	<atom:link href="https://hipersuperultra.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Advent of Code 2019</title>
+      <link>https://hipersuperultra.github.io/posts/aoc-2019/</link>
+      <pubDate>Mon, 09 Dec 2019 09:18:29 -0300</pubDate>
+      
+      <guid>https://hipersuperultra.github.io/posts/aoc-2019/</guid>
+      <description>&lt;p&gt;A new &lt;a href=&#34;https://adventofcode.com/2019&#34; target=&#34;_blank&#34;&gt;Advent of Code 2019&lt;/a&gt; challange is up since December 1st (as always). This is 3rd year I&amp;rsquo;m intent to participate and, also, the 3rd year we start behind the schedule.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New C&#43;&#43; Log</title>
